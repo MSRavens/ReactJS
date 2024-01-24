@@ -1,0 +1,28 @@
+h1{
+    text-align: right;
+    color: purple;
+    margin-right: 5vw;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+    background-color: bisque;
+}
+
+li {
+    margin: 20px;
+    background-color: rgb(236, 219, 253);
+
+}
+
+a{
+    color: red;
+    text-decoration: none;
+    font-size: larger;
+    background-color: rgb(236, 219, 253);
+
+}
+
